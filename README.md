@@ -1,11 +1,19 @@
-# quizApp
+# Quiz
 
-Here are some screenshots
+## What is Quiz?
+ Programming Quiz 15 religious questions in { Html, Css, Javascript }.
 
-![Screenshot (154)](https://user-images.githubusercontent.com/68517660/138471957-8e572d61-9e06-4a6d-8998-d455cba3c1eb.png)
+## 🚀 About Me
+I'm Mohamed Ahmed Frontend web developer...
 
+  
+## 🕵️‍ Skills
+Javascript, HTML, CSS, ...
 
-![Screenshot (155)](https://user-images.githubusercontent.com/68517660/138471999-3221d6b1-8748-4545-a781-05ae4eca9fbd.png)
+## Desciption
+This is my project where I have made a Programming Quiz 15 religious questions in { Html, Css, Javascript }.
 
+## 🔗 Links
 
-![Screenshot (156)](https://user-images.githubusercontent.com/68517660/138472029-0bcf7c72-7d95-4802-b3b0-f237f277d52f.png)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-bb358b239/)
+- [![link](https://img.shields.io/badge/link-green?style=for-the-badge&logo=link&logoColor=black)](https://quiz-1.netlify.app)
