@@ -1,4 +1,6 @@
-# Quiz
+# Quiz App
+
+<img align="center" width="80%" src="https://github.com/Mohamed20a/My-Portfolio/blob/main/assets/img/portfolio/Quiz.png">
 
 ## What is Quiz?
  Programming Quiz 15 religious questions in { Html, Css, Javascript }.
